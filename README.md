@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Prashil W — SAP Fiori Architect & Full-Stack Developer
+# 👋 Hi, I'm Prashil Wasnik — SAP Fiori Architect & Full-Stack Developer
 
 Welcome to my GitHub profile!  
 As a passionate SAP Fiori Architect, I specialize in delivering robust enterprise solutions using SAPUI5, RAP, BOPF, and ABAP. Alongside my expertise in the SAP ecosystem, I am seasoned in Java, J2EE, and modern web frameworks like Struts and Spring.
